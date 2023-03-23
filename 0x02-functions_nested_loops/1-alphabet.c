@@ -3,17 +3,16 @@
  * main - Entry point
  * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet(void)
 {
-	char letters;
+	char c;
 
-	letters = 'a';
+	c = 'a';
 
-	while (letters <= 'z')
+	while (c <= 'z')
 	{
-		_putchar(letters);
-		letters++;
+		_putchar(c);
+		c++;
 	}
 	_putchar('\n');
-	return (0);
 }
