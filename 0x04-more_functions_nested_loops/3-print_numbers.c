@@ -3,7 +3,7 @@
 
 /**
  * print_numbers - Print numbers between 0 to 9 incl.
- *
+ *@c:character value
  * Return: Void.
  */
 int _putchar(char c);
