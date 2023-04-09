@@ -5,7 +5,8 @@
  * @s: poited memory area
  * @b: the address of the memory
  * @n: size of the memory
- * Return: 0
+ *
+ * Return: pointer to memory area
  */
 char *_memset(char *s, char b, unsigned int n)
 {
