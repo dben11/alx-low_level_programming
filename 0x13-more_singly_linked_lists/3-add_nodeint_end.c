@@ -1,8 +1,3 @@
-/*
- * File: 3-add_nodeint_end.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
 
 /**
